@@ -41,6 +41,17 @@ records=[
     records = [
       "127.0.0.1"
     ]
+  },
+  {
+    name    = "preview"
+    type    = "NS"
+    ttl     = 3600
+    records = [
+      "ns-1013.awsdns-62.net",
+      "ns-1430.awsdns-50.org",
+      "ns-1538.awsdns-00.co.uk",
+      "ns-158.awsdns-19.com"
+    ]
   }
 ]
 
